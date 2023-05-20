@@ -6882,7 +6882,7 @@ ul.navbar-nav .collapse li a {
   font-family: "Roboto Slab", "Arial";
   font-weight: 400;
   font-style: normal;
-  color: #019ccc;
+  color: #000000;
   text-shadow: none;
   text-align: left;
   text-decoration: none;
@@ -7128,7 +7128,7 @@ nav#ttr_menu {
   width: auto;
 }
 #Slide0 {
-  background: url(https://c4.wallpaperflare.com/wallpaper/296/400/37/movie-avengers-infinity-war-black-panther-movie-black-widow-wallpaper-preview.jpg);
+  background: url(https://media.istockphoto.com/id/1036617154/photo/addiction-to-internet-and-social-networks.jpg?s=612x612&w=0&k=20&c=0rc2l6CIyCt7BKog4uVz17Ok8ftkALiGgo75RDLLzaY=);
   background-color: #2e1532;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7136,7 +7136,7 @@ nav#ttr_menu {
   background-clip: padding-box;
 }
 #Slide1 {
-  background: url(https://wallpaperaccess.com/full/1088580.jpg);
+  background: url(https://t3.ftcdn.net/jpg/04/15/76/54/360_F_415765406_bNYus3fB14MOQEBTwFM6WeCmj7byxGRO.jpg);
   background-color: #ffffff;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7144,7 +7144,7 @@ nav#ttr_menu {
   background-clip: padding-box;
 }
 #Slide2 {
-  background: url(https://wallpaperaccess.com/full/1637809.jpg);
+  background: url(https://media.istockphoto.com/id/1130687040/photo/late-nights-and-dedicated-staff.jpg?s=170667a&w=0&k=20&c=fLroaIuIg0YAmx_SvjH8biNtAaZOr1LpryWCqjD8RHs=);
   background-color: #272727;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7914,8 +7914,8 @@ ul.ttr_vmenu_items.nav li.dropdown:hover ul.collapse li {
 }
 footer {
   position: relative;
-  background-color: #222222;
-  background: rgba(34, 34, 34, 1);
+  background-color: #000000;
+  background: rgb(0, 0, 0);
   background-clip: padding-box;
   border-radius: 0px 0px 0px 0px;
   border: solid #dcdcdc;
@@ -9848,7 +9848,7 @@ hr {
   background-color: #eeeeee;
   background: rgba(238, 238, 238, 1);
   background-clip: padding-box;
-  color: #ffffff;
+  color: #131313;
   border-color: #adadad;
 }
 .btn-success:hover {
