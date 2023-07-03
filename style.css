@@ -7128,15 +7128,16 @@ nav#ttr_menu {
   width: auto;
 }
 #Slide0 {
-  background: url(https://media.istockphoto.com/id/1036617154/photo/addiction-to-internet-and-social-networks.jpg?s=612x612&w=0&k=20&c=0rc2l6CIyCt7BKog4uVz17Ok8ftkALiGgo75RDLLzaY=);
+  background:url(images/HomeDesktopSlide2.jpg) ;
   background-color: #2e1532;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: Center Center;
   background-clip: padding-box;
+  
 }
 #Slide1 {
-  background: url(https://t3.ftcdn.net/jpg/04/15/76/54/360_F_415765406_bNYus3fB14MOQEBTwFM6WeCmj7byxGRO.jpg);
+  background: url(images/HomeDesktopSlide1.jpg);
   background-color: #ffffff;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7144,7 +7145,7 @@ nav#ttr_menu {
   background-clip: padding-box;
 }
 #Slide2 {
-  background: url(https://media.istockphoto.com/id/1130687040/photo/late-nights-and-dedicated-staff.jpg?s=170667a&w=0&k=20&c=fLroaIuIg0YAmx_SvjH8biNtAaZOr1LpryWCqjD8RHs=);
+  background: url(images/HomeDesktopSlide0.jpg);
   background-color: #272727;
   background-repeat: no-repeat;
   background-size: cover;
