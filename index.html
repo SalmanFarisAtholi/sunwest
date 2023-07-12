@@ -59,7 +59,15 @@
                 <span class="icon-bar"> </span>
                 <span class="icon-bar"> </span>
               </button>
-              <a href="#" target="_self">
+              <style>
+                @media screen and (max-width: 640px) {
+                  #logo {
+                    visibility: hidden;
+                    display: none;
+                  }
+                }
+              </style>
+              <a id="logo" href="#" target="_self">
                 <img class="ttr_menu_logo" src="logo.png" />
               </a>
             </div>
